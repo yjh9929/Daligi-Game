@@ -1,1 +1,1 @@
-# Daligi-Game
+# Dalligi-Game
